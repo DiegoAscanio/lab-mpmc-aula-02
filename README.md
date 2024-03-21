@@ -19,7 +19,7 @@
 
 ### Entrega
 
-- Você deve entregar no AVA um relatório em formato Markdown com os códigos e capturas de tela dos exercícios realizados. Em anexo, você deve entregar um arquivo .zip com os zips dos projetos realizados no Wokwi.
+- Você deve entregar no AVA um relatório feito em formato Markdown e salvo em pdf com os códigos, capturas de tela dos exercícios realizados e os links para os projetos Wokwi de cada exercício. 
 
 ### Valor:
 
