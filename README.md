@@ -19,7 +19,8 @@
 
 ### Entrega
 
-- Você deve entregar no AVA um relatório feito em formato Markdown e salvo em pdf com os códigos, capturas de tela dos exercícios realizados e os links para os projetos Wokwi de cada exercício. 
+- Em dupla
+- Você deve entregar no AVA um relatório feito em formato Markdown contendo o nome da dupla e salvo em pdf com os códigos, capturas de tela dos exercícios realizados e os links para os projetos Wokwi de cada exercício. 
 
 ### Valor:
 
